@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "El trabajo perron
+echo "El trabajo"
